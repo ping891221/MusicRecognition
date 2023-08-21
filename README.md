@@ -18,6 +18,13 @@ pip -r requirements.txt
 git clone https://github.com/ping891221/MusicRecognition.git
 ```
 
+## 讓他辨識音樂
+```
+python m.py
+```
+
+# 下面不用理他
+
 ## Generate MP3 files fingerprints
 /mp3裡面有放預計要使用的音檔
 ```
