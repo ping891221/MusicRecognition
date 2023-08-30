@@ -20,7 +20,7 @@ import pyaudio
 import numpy
 import wave
 #from reader import BaseReader  # 你需要导入 BaseReader 类
-from libs.audio_reader import AudioFileReader  # 你的修改后的类
+#from libs.audio_reader import AudioFileReader  # 你的修改后的类
 
 def match_songs7(data):
   """
